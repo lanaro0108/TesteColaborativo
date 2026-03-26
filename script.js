@@ -1,5 +1,3 @@
-// Feito por Pedro Lanaro
-
 const display = document.getElementById('display');
 
 // adiciona números ou operadores ao visor
